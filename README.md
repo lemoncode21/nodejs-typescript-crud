@@ -1,4 +1,4 @@
-Step init project nodejs express typescript sequelize
+# Step init project nodejs express typescript sequelize
 
 <!-- init project -->
 1. yarn init  
@@ -10,3 +10,9 @@ Step init project nodejs express typescript sequelize
 4. "outDir": "./build"
 <!-- add script -->   
 5. add script tsc :dev "tsc && nodemon ./build/index.js"
+
+
+# How to start
+
+1. yarn install
+2. yarn start-dev
